@@ -4,7 +4,7 @@
 Evaluate whether higher production budgets lead to stronger financial returns and inform greenlight decisions.
 
 ## Approach
-– Simulated production budgets in Python to enable ROI analysis
+- Simulated production budgets in Python to enable ROI analysis
 - Cleaned and structured dataset (budget, revenue)
 - Created ROI metric: (Revenue - Budget) / Budget
 - Analyzed relationship between budget size and return
